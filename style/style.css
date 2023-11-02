@@ -104,7 +104,7 @@
 
 }
 
-@media (max-width: 376px) {
+@media (max-width: 500px) {
 
 
     .cnt-1 {
@@ -176,7 +176,7 @@
         margin: 10px;
     }
 }
-@media (min-width: 377px) {
+@media (min-width: 500px) {
     .search-btn-2 {
        display:none;
 
